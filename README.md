@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Javascript and ReactJs**
 
-- 📫 How to reach me **dixitbalkrishna24@gmail.com**
+- 📫 How to reach me **balkrishadixit56@gmail.com**
 
 - ⚡ Fun fact **Jack of all trades, Master of None**
 
