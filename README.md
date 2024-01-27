@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Balkrishna dixit</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Balkrishna+Dixit;Computer+Engineering+Student;Cooking+Projects;">
+</p>
 <h3 align="center">A CSE Sophomore who loves exploring new field and empowering others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balkrishnadixit&label=Profile%20views&color=0e75b6&style=flat" alt="balkrishnadixit" /> </p>
