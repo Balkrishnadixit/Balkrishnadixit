@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balkrishnadixit" alt="balkrishnadixit" /></a> </p>
 
+<p align="right"> <img src="https://thumbs.dreamstime.com/z/latino-man-beard-working-computer-laptop-desk-software-developer-programmer-system-administrator-pc-technical-293150738.jpg?w=576" alt="balkrishnadixit" /></p>
+
 <p align="left"> <a href="https://twitter.com/balkrishnadix14" target="blank"><img src="https://img.shields.io/twitter/follow/balkrishnadix14?logo=twitter&style=for-the-badge" alt="balkrishnadix14" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs, Javascript and ReactJs**
