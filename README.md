@@ -13,7 +13,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 🌱 I’m currently learning **Javascript and ReactJs**
+- 🌱 I’m currently learning **Javascript **
 
 - 📫 How to reach me **balkrishadixit56@gmail.com**
 
