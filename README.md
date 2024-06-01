@@ -9,7 +9,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
-  <a href="https://linkedin.com/in/www.linkedin.com/in/dixitbalkrishna/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/dixitbalkrishna/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username dixitbalkrishna" /></a>
   <a href="mailto:balkrishnadixit56@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
   <a href="https://twitter.com/balkrishnadix14"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
 
@@ -17,11 +17,8 @@
 
 <h3 align="center">A passionate Full stack web developer  </h3>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-<p align="right"> <img src="https://thumbs.dreamstime.com/z/latino-man-beard-working-computer-laptop-desk-software-developer-programmer-system-administrator-pc-technical-293150738.jpg?w=300" alt="balkrishnadixit" /></p>
+<img align="right" alt="Code " src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47wriar6jmlt8qts6w4no95x9za1b4jjfv7tr2f7fq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320"> 
+<!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">-->
 
 ### 🙋‍♂️ About Me
 - 👩‍🎓 I'm a sophomore at **ITM Gwalior studying Computer Science**
