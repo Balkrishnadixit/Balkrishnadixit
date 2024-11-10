@@ -24,13 +24,10 @@
 ### 🙋‍♂️ About Me
 - 👩‍🎓 I'm a sophomore at **ITM Gwalior studying Computer Science**
 
-- 🔭 I’m looking to contribute to **Open Source**
-
-- 🌱 I’m currently learning **Javascript **
+- 🔭 Passionate about contributing to **Open Source Projects**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **balkrishadixit56@gmail.com**
-
-- ⚡ Fun fact **Jack of all trades, Master of None**
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
