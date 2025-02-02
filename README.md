@@ -11,7 +11,7 @@
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   
   <a href="https://twitter.com/balkrishnadix14"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
-   <a href="mailto:balkrishnadixit56@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
+   <a href="mailto:balkrishnadixit56@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Balkrishna i.e.   balkrishnadixit56@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/dixitbalkrishna/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username dixitbalkrishna" /></a>
 
 <h1 align="center">Hi 👋, I'm Balkrishna dixit </h1>
